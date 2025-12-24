@@ -185,27 +185,66 @@ const calculateTrailPath = (timestamp: number): number[][] => {
 
     // 次の地点への移動を計算
     if (timestamp >= departure) {
+      const from = turf.point(currentStop.geometry.coordinates)
+      const to = turf.point(nextStop.geometry.coordinates)
+
+      // 大圏航路を計算
+      const greatCircle = turf.greatCircle(from, to, { npoints: 100 })
+
       // 移動完了している場合
       if (timestamp >= nextArrival) {
-        coordinates.push([...nextStop.geometry.coordinates])
+        // greatCircleの結果を座標配列に追加
+        if (greatCircle.geometry.type === 'LineString') {
+          // LineStringの場合はそのまま追加（最初の点は既に追加済みなのでスキップ）
+          const gcCoords = fixAntimeridian(greatCircle.geometry.coordinates)
+          for (let j = 1; j < gcCoords.length; j++) {
+            coordinates.push(gcCoords[j])
+          }
+        } else if (greatCircle.geometry.type === 'MultiLineString') {
+          // MultiLineStringの場合は結合してfixAntimeridianを適用
+          const allCoords: number[][] = []
+          for (const lineCoords of greatCircle.geometry.coordinates) {
+            allCoords.push(...lineCoords)
+          }
+          const gcCoords = fixAntimeridian(allCoords)
+          for (let j = 1; j < gcCoords.length; j++) {
+            coordinates.push(gcCoords[j])
+          }
+        }
       } else {
         // 移動中の場合、補間した位置まで
-        const from = turf.point(currentStop.geometry.coordinates)
-        const to = turf.point(nextStop.geometry.coordinates)
-
         const travelDuration = nextArrival - departure
         const elapsed = timestamp - departure
         const ratio = elapsed / travelDuration
 
-        const distance = turf.distance(from, to, { units: 'kilometers' })
-        const bearing = turf.bearing(from, to)
-        const traveledDistance = distance * ratio
+        // 大圏航路上の距離を計算
+        const totalDistance = turf.distance(from, to, { units: 'kilometers' })
+        const traveledDistance = totalDistance * ratio
 
-        const position = turf.destination(from, traveledDistance, bearing, {
+        // greatCircleの結果をLineStringに変換（日付変更線対応）
+        let lineCoords: number[][] = []
+        if (greatCircle.geometry.type === 'LineString') {
+          lineCoords = greatCircle.geometry.coordinates
+        } else if (greatCircle.geometry.type === 'MultiLineString') {
+          // MultiLineStringの場合は結合
+          for (const lineSegment of greatCircle.geometry.coordinates) {
+            lineCoords.push(...lineSegment)
+          }
+        }
+
+        // 日付変更線をまたぐ場合の座標を修正してLineStringに変換
+        const fixedCoords = fixAntimeridian(lineCoords)
+        const lineString = turf.lineString(fixedCoords)
+
+        // lineSliceAlongで進行距離に応じた部分を取得
+        const sliced = turf.lineSliceAlong(lineString, 0, traveledDistance, {
           units: 'kilometers',
         })
 
-        coordinates.push([...position.geometry.coordinates])
+        // スライスした座標を追加（最初の点は既に追加済みなのでスキップ）
+        for (let j = 1; j < sliced.geometry.coordinates.length; j++) {
+          coordinates.push([...sliced.geometry.coordinates[j]])
+        }
         break
       }
     }
