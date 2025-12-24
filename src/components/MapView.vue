@@ -413,7 +413,7 @@ onMounted(async () => {
       layout: {
         'text-field': ['concat', ['get', 'city'], '\n', '現地時刻 ', ['get', 'localArrivalTime']],
         'text-font': ['Open Sans Regular'],
-        'text-size': 11,
+        'text-size': 14,
         'text-offset': [0, 1.8],
         'text-anchor': 'top',
       },
