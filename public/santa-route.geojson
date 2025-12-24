@@ -5,10 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          168,
-          84.6
-        ]
+        "coordinates": [25.848333, 66.543333]
       },
       "properties": {
         "id": "takeoff",
@@ -16,10 +13,10 @@
         "departure": 1577181600000,
         "population": 0,
         "presentsDelivered": 0,
-        "city": "サンタ村",
-        "region": "北極",
+        "city": "サンタクロース村",
+        "region": "フィンランド",
         "details": {
-          "timezone": 0
+          "timezone": 7200
         }
       }
     },
@@ -27,10 +24,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -173.233337,
-          64.436249
-        ]
+        "coordinates": [-173.233337, 64.436249]
       },
       "properties": {
         "id": "provideniya",
@@ -49,10 +43,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          177.477371,
-          64.736656
-        ]
+        "coordinates": [177.477371, 64.736656]
       },
       "properties": {
         "id": "anadyr",
@@ -71,10 +62,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          158.622482,
-          53.061562
-        ]
+        "coordinates": [158.622482, 53.061562]
       },
       "properties": {
         "id": "petropavlovsk-kamchatsky",
@@ -93,10 +81,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          165.545318,
-          11.626074
-        ]
+        "coordinates": [165.545318, 11.626074]
       },
       "properties": {
         "id": "bikini",
@@ -115,10 +100,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          171.13456,
-          7.110464
-        ]
+        "coordinates": [171.13456, 7.110464]
       },
       "properties": {
         "id": "majuro",
@@ -137,10 +119,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          172.9716617,
-          1.4518171
-        ]
+        "coordinates": [172.9716617, 1.4518171]
       },
       "properties": {
         "id": "tarawa",
@@ -159,10 +138,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          179.1961926,
-          -8.5211471
-        ]
+        "coordinates": [179.1961926, -8.5211471]
       },
       "properties": {
         "id": "funafuti",
@@ -181,10 +157,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -172.47252,
-          -8.55543
-        ]
+        "coordinates": [-172.47252, -8.55543]
       },
       "properties": {
         "id": "atafu",
@@ -203,10 +176,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -171.767476,
-          -13.834225
-        ]
+        "coordinates": [-171.767476, -13.834225]
       },
       "properties": {
         "id": "apia",
@@ -225,10 +195,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          178.3841,
-          -18.08769
-        ]
+        "coordinates": [178.3841, -18.08769]
       },
       "properties": {
         "id": "suva",
@@ -247,10 +214,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -175.204947,
-          -21.1393418
-        ]
+        "coordinates": [-175.204947, -21.1393418]
       },
       "properties": {
         "id": "nukualofa",
@@ -269,10 +233,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          174.765735,
-          -36.847385
-        ]
+        "coordinates": [174.765735, -36.847385]
       },
       "properties": {
         "id": "auckland",
@@ -291,10 +252,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          176.89863,
-          -39.502581
-        ]
+        "coordinates": [176.89863, -39.502581]
       },
       "properties": {
         "id": "napier",
@@ -313,10 +271,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          174.776217,
-          -41.28648
-        ]
+        "coordinates": [174.776217, -41.28648]
       },
       "properties": {
         "id": "wellington",
@@ -335,10 +290,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          172.636645,
-          -43.531637
-        ]
+        "coordinates": [172.636645, -43.531637]
       },
       "properties": {
         "id": "christchurch",
@@ -357,10 +309,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          166.6863447,
-          -77.8418779
-        ]
+        "coordinates": [166.6863447, -77.8418779]
       },
       "properties": {
         "id": "mcmurdo_station",
@@ -379,10 +328,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          168.669199,
-          -45.03052
-        ]
+        "coordinates": [168.669199, -45.03052]
       },
       "properties": {
         "id": "queenstown",
@@ -401,10 +347,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          166.443273,
-          -22.270994
-        ]
+        "coordinates": [166.443273, -22.270994]
       },
       "properties": {
         "id": "noumea",
@@ -423,10 +366,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          167.151993,
-          -15.51268
-        ]
+        "coordinates": [167.151993, -15.51268]
       },
       "properties": {
         "id": "luganville",
@@ -445,10 +385,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          159.948735,
-          -9.426761
-        ]
+        "coordinates": [159.948735, -9.426761]
       },
       "properties": {
         "id": "honiara",
@@ -467,10 +404,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          156.85,
-          -8.1
-        ]
+        "coordinates": [156.85, -8.1]
       },
       "properties": {
         "id": "gizo",
@@ -489,10 +423,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          166.9210913,
-          -0.5466857
-        ]
+        "coordinates": [166.9210913, -0.5466857]
       },
       "properties": {
         "id": "yaren",
@@ -511,10 +442,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          158.208795,
-          6.9608
-        ]
+        "coordinates": [158.208795, 6.9608]
       },
       "properties": {
         "id": "kolonia",
@@ -533,10 +461,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          149.982132,
-          45.89974
-        ]
+        "coordinates": [149.982132, 45.89974]
       },
       "properties": {
         "id": "urup",
@@ -555,10 +480,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          154.765861,
-          49.445231
-        ]
+        "coordinates": [154.765861, 49.445231]
       },
       "properties": {
         "id": "onekotan",
@@ -577,10 +499,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          150.81308,
-          59.55632
-        ]
+        "coordinates": [150.81308, 59.55632]
       },
       "properties": {
         "id": "magadan",
@@ -599,10 +518,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          143.18821,
-          50.157665
-        ]
+        "coordinates": [143.18821, 50.157665]
       },
       "properties": {
         "id": "yuzhno-sakhalinsk",
@@ -621,10 +537,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          132.933333,
-          48.783333
-        ]
+        "coordinates": [132.933333, 48.783333]
       },
       "properties": {
         "id": "birobidzhan",
@@ -643,10 +556,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          131.923828,
-          43.13137
-        ]
+        "coordinates": [131.923828, 43.13137]
       },
       "properties": {
         "id": "vladivostok",
@@ -665,10 +575,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          142.192,
-          27.094
-        ]
+        "coordinates": [142.192, 27.094]
       },
       "properties": {
         "id": "chichi-jima_island",
@@ -687,10 +594,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          141.319448,
-          24.783305
-        ]
+        "coordinates": [141.319448, 24.783305]
       },
       "properties": {
         "id": "iwo_jima",
@@ -709,10 +613,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          145.75101,
-          15.208083
-        ]
+        "coordinates": [145.75101, 15.208083]
       },
       "properties": {
         "id": "saipan",
@@ -731,10 +632,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          144.746506,
-          13.46671
-        ]
+        "coordinates": [144.746506, 13.46671]
       },
       "properties": {
         "id": "hagatna",
@@ -753,10 +651,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          138.124779,
-          9.537352
-        ]
+        "coordinates": [138.124779, 9.537352]
       },
       "properties": {
         "id": "yap_islands",
@@ -775,10 +670,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          150.808103,
-          -2.570388
-        ]
+        "coordinates": [150.808103, -2.570388]
       },
       "properties": {
         "id": "kavieng",
@@ -797,10 +689,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          146.990906,
-          -6.72367
-        ]
+        "coordinates": [146.990906, -6.72367]
       },
       "properties": {
         "id": "lae",
@@ -819,10 +708,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          147.190242,
-          -9.481553
-        ]
+        "coordinates": [147.190242, -9.481553]
       },
       "properties": {
         "id": "port_moresby",
@@ -841,10 +727,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          145.773897,
-          -16.923151
-        ]
+        "coordinates": [145.773897, -16.923151]
       },
       "properties": {
         "id": "cairns",
@@ -863,10 +746,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          146.818351,
-          -19.258106
-        ]
+        "coordinates": [146.818351, -19.258106]
       },
       "properties": {
         "id": "townsville",
@@ -885,10 +765,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          149.186845,
-          -21.14342
-        ]
+        "coordinates": [149.186845, -21.14342]
       },
       "properties": {
         "id": "mackay",
@@ -907,10 +784,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          153.027892,
-          -27.46758
-        ]
+        "coordinates": [153.027892, -27.46758]
       },
       "properties": {
         "id": "brisbane",
@@ -929,10 +803,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          151.207114,
-          -33.867139
-        ]
+        "coordinates": [151.207114, -33.867139]
       },
       "properties": {
         "id": "sydney",
@@ -951,10 +822,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          150.8931239,
-          -34.424984
-        ]
+        "coordinates": [150.8931239, -34.424984]
       },
       "properties": {
         "id": "wollongong",
@@ -973,10 +841,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          149.12858,
-          -35.28204
-        ]
+        "coordinates": [149.12858, -35.28204]
       },
       "properties": {
         "id": "canberra",
@@ -995,10 +860,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          144.963169,
-          -37.814251
-        ]
+        "coordinates": [144.963169, -37.814251]
       },
       "properties": {
         "id": "melbourne",
@@ -1017,10 +879,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          147.330234,
-          -42.882743
-        ]
+        "coordinates": [147.330234, -42.882743]
       },
       "properties": {
         "id": "hobart",
@@ -1039,10 +898,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          138.599732,
-          -34.92577
-        ]
+        "coordinates": [138.599732, -34.92577]
       },
       "properties": {
         "id": "adelaide",
@@ -1061,10 +917,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          133.880889,
-          -23.700358
-        ]
+        "coordinates": [133.880889, -23.700358]
       },
       "properties": {
         "id": "alice_springs",
@@ -1083,10 +936,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          130.841904,
-          -12.461334
-        ]
+        "coordinates": [130.841904, -12.461334]
       },
       "properties": {
         "id": "darwin",
@@ -1105,10 +955,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          125.5603143,
-          -8.5568557
-        ]
+        "coordinates": [125.5603143, -8.5568557]
       },
       "properties": {
         "id": "dili",
@@ -1127,10 +974,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          128.181697,
-          -3.692929
-        ]
+        "coordinates": [128.181697, -3.692929]
       },
       "properties": {
         "id": "ambon",
@@ -1149,10 +993,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          134.484604,
-          7.343782
-        ]
+        "coordinates": [134.484604, 7.343782]
       },
       "properties": {
         "id": "koror",
@@ -1171,10 +1012,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          127.688942,
-          26.228759
-        ]
+        "coordinates": [127.688942, 26.228759]
       },
       "properties": {
         "id": "naha",
@@ -1193,10 +1031,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          130.432725,
-          33.657471
-        ]
+        "coordinates": [130.432725, 33.657471]
       },
       "properties": {
         "id": "fukuoka",
@@ -1215,10 +1050,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          129.037455,
-          35.158148
-        ]
+        "coordinates": [129.037455, 35.158148]
       },
       "properties": {
         "id": "busan",
@@ -1237,10 +1069,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          135.768029,
-          35.011636
-        ]
+        "coordinates": [135.768029, 35.011636]
       },
       "properties": {
         "id": "kyoto",
@@ -1259,10 +1088,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          138.731275,
-          35.36497
-        ]
+        "coordinates": [138.731275, 35.36497]
       },
       "properties": {
         "id": "fuji",
@@ -1281,10 +1107,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          139.638026,
-          35.443708
-        ]
+        "coordinates": [139.638026, 35.443708]
       },
       "properties": {
         "id": "yokohama",
@@ -1303,10 +1126,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          139.682282,
-          35.678451
-        ]
+        "coordinates": [139.682282, 35.678451]
       },
       "properties": {
         "id": "tokyo",
@@ -1325,10 +1145,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          139.060832,
-          37.912579
-        ]
+        "coordinates": [139.060832, 37.912579]
       },
       "properties": {
         "id": "niigata",
@@ -1347,10 +1164,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          140.72972,
-          41.768274
-        ]
+        "coordinates": [140.72972, 41.768274]
       },
       "properties": {
         "id": "hakodate",
@@ -1369,10 +1183,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          126.977969,
-          37.566535
-        ]
+        "coordinates": [126.977969, 37.566535]
       },
       "properties": {
         "id": "seoul",
@@ -1391,10 +1202,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          125.71106,
-          39.014916
-        ]
+        "coordinates": [125.71106, 39.014916]
       },
       "properties": {
         "id": "pyongyang",
@@ -1413,10 +1221,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          129.746399,
-          62.039261
-        ]
+        "coordinates": [129.746399, 62.039261]
       },
       "properties": {
         "id": "yakutsk",
@@ -1435,10 +1240,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          104.30864,
-          52.275261
-        ]
+        "coordinates": [104.30864, 52.275261]
       },
       "properties": {
         "id": "irkutsk",
@@ -1457,10 +1259,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          106.917655,
-          47.919535
-        ]
+        "coordinates": [106.917655, 47.919535]
       },
       "properties": {
         "id": "ulaanbaatar",
@@ -1479,10 +1278,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          111.744899,
-          40.847236
-        ]
+        "coordinates": [111.744899, 40.847236]
       },
       "properties": {
         "id": "hohhot",
@@ -1501,10 +1297,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          116.407413,
-          39.904214
-        ]
+        "coordinates": [116.407413, 39.904214]
       },
       "properties": {
         "id": "beijing",
@@ -1523,10 +1316,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          108.946749,
-          34.25144
-        ]
+        "coordinates": [108.946749, 34.25144]
       },
       "properties": {
         "id": "xian",
@@ -1545,10 +1335,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          106.545833,
-          29.552778
-        ]
+        "coordinates": [106.545833, 29.552778]
       },
       "properties": {
         "id": "chongqing",
@@ -1567,10 +1354,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          121.475,
-          31.222222
-        ]
+        "coordinates": [121.475, 31.222222]
       },
       "properties": {
         "id": "shanghai",
@@ -1589,10 +1373,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          112.937529,
-          28.228296
-        ]
+        "coordinates": [112.937529, 28.228296]
       },
       "properties": {
         "id": "changsha",
@@ -1611,10 +1392,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          114.169003,
-          22.321423
-        ]
+        "coordinates": [114.169003, 22.321423]
       },
       "properties": {
         "id": "kowloon",
@@ -1633,10 +1411,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          121.559601,
-          25.091818
-        ]
+        "coordinates": [121.559601, 25.091818]
       },
       "properties": {
         "id": "taipei",
@@ -1655,10 +1430,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          120.597017,
-          16.403072
-        ]
+        "coordinates": [120.597017, 16.403072]
       },
       "properties": {
         "id": "baguio",
@@ -1677,10 +1449,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          120.966667,
-          14.583333
-        ]
+        "coordinates": [120.966667, 14.583333]
       },
       "properties": {
         "id": "manila",
@@ -1699,10 +1468,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          123.892273,
-          10.30978
-        ]
+        "coordinates": [123.892273, 10.30978]
       },
       "properties": {
         "id": "cebu",
@@ -1721,10 +1487,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          114.646698,
-          4.805784
-        ]
+        "coordinates": [114.646698, 4.805784]
       },
       "properties": {
         "id": "muara",
@@ -1743,10 +1506,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          113.467076,
-          3.193499
-        ]
+        "coordinates": [113.467076, 3.193499]
       },
       "properties": {
         "id": "bintulu",
@@ -1765,10 +1525,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          115.215809,
-          -8.669407
-        ]
+        "coordinates": [115.215809, -8.669407]
       },
       "properties": {
         "id": "denpasar",
@@ -1787,10 +1544,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          122.241457,
-          -17.955123
-        ]
+        "coordinates": [122.241457, -17.955123]
       },
       "properties": {
         "id": "broome",
@@ -1809,10 +1563,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          117.883543,
-          -35.023873
-        ]
+        "coordinates": [117.883543, -35.023873]
       },
       "properties": {
         "id": "albany",
@@ -1831,10 +1582,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          115.85859,
-          -31.9554
-        ]
+        "coordinates": [115.85859, -31.9554]
       },
       "properties": {
         "id": "perth",
@@ -1853,10 +1601,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          105.680687,
-          -10.428593
-        ]
+        "coordinates": [105.680687, -10.428593]
       },
       "properties": {
         "id": "the_settlement",
@@ -1875,10 +1620,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          106.845172,
-          -6.211544
-        ]
+        "coordinates": [106.845172, -6.211544]
       },
       "properties": {
         "id": "jakarta",
@@ -1897,10 +1639,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          104.76537,
-          -2.988213
-        ]
+        "coordinates": [104.76537, -2.988213]
       },
       "properties": {
         "id": "pelambang",
@@ -1919,10 +1658,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          103.822861,
-          1.370414
-        ]
+        "coordinates": [103.822861, 1.370414]
       },
       "properties": {
         "id": "singapore",
@@ -1941,10 +1677,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          101.69317,
-          3.140215
-        ]
+        "coordinates": [101.69317, 3.140215]
       },
       "properties": {
         "id": "kuala_lumpur",
@@ -1963,10 +1696,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          92.722088,
-          11.618338
-        ]
+        "coordinates": [92.722088, 11.618338]
       },
       "properties": {
         "id": "port_blair",
@@ -1985,10 +1715,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          100.476232,
-          13.723419
-        ]
+        "coordinates": [100.476232, 13.723419]
       },
       "properties": {
         "id": "bangkok",
@@ -2007,10 +1734,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          103.858892,
-          13.437159
-        ]
+        "coordinates": [103.858892, 13.437159]
       },
       "properties": {
         "id": "siem_reap",
@@ -2029,10 +1753,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          106.700174,
-          10.777152
-        ]
+        "coordinates": [106.700174, 10.777152]
       },
       "properties": {
         "id": "ho_chi_minh_city",
@@ -2051,10 +1772,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          102.614429,
-          17.962769
-        ]
+        "coordinates": [102.614429, 17.962769]
       },
       "properties": {
         "id": "vientiane",
@@ -2073,10 +1791,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          105.85,
-          21.033333
-        ]
+        "coordinates": [105.85, 21.033333]
       },
       "properties": {
         "id": "hanoi",
@@ -2095,10 +1810,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          102.829941,
-          24.878769
-        ]
+        "coordinates": [102.829941, 24.878769]
       },
       "properties": {
         "id": "kunming",
@@ -2117,10 +1829,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          91.145833,
-          29.647222
-        ]
+        "coordinates": [91.145833, 29.647222]
       },
       "properties": {
         "id": "lhasa",
@@ -2139,10 +1848,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          87.616823,
-          43.825645
-        ]
+        "coordinates": [87.616823, 43.825645]
       },
       "properties": {
         "id": "urumqi",
@@ -2161,10 +1867,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          92.88559,
-          56.001251
-        ]
+        "coordinates": [92.88559, 56.001251]
       },
       "properties": {
         "id": "krasnoyarsk",
@@ -2183,10 +1886,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          88.220482,
-          69.330406
-        ]
+        "coordinates": [88.220482, 69.330406]
       },
       "properties": {
         "id": "norilsk",
@@ -2205,10 +1905,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          86.181664,
-          69.408341
-        ]
+        "coordinates": [86.181664, 69.408341]
       },
       "properties": {
         "id": "dudinka",
@@ -2227,10 +1924,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          73.393753,
-          54.970902
-        ]
+        "coordinates": [73.393753, 54.970902]
       },
       "properties": {
         "id": "omsk",
@@ -2249,10 +1943,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          71.467147,
-          51.168841
-        ]
+        "coordinates": [71.467147, 51.168841]
       },
       "properties": {
         "id": "astana",
@@ -2271,10 +1962,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          74.576073,
-          42.880747
-        ]
+        "coordinates": [74.576073, 42.880747]
       },
       "properties": {
         "id": "bishkek",
@@ -2293,10 +1981,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          68.777447,
-          38.554718
-        ]
+        "coordinates": [68.777447, 38.554718]
       },
       "properties": {
         "id": "dushanbe",
@@ -2315,10 +2000,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          89.6392863,
-          27.4727924
-        ]
+        "coordinates": [89.6392863, 27.4727924]
       },
       "properties": {
         "id": "thimphu",
@@ -2337,10 +2019,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          86.933333,
-          27.983333
-        ]
+        "coordinates": [86.933333, 27.983333]
       },
       "properties": {
         "id": "mount_everest",
@@ -2359,10 +2038,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          83.985008,
-          28.2025654
-        ]
+        "coordinates": [83.985008, 28.2025654]
       },
       "properties": {
         "id": "pokhara",
@@ -2381,10 +2057,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          88.363895,
-          22.572646
-        ]
+        "coordinates": [88.363895, 22.572646]
       },
       "properties": {
         "id": "kolkata",
@@ -2403,10 +2076,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          90.407143,
-          23.709921
-        ]
+        "coordinates": [90.407143, 23.709921]
       },
       "properties": {
         "id": "dhaka",
@@ -2425,10 +2095,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          98.96759,
-          18.780217
-        ]
+        "coordinates": [98.96759, 18.780217]
       },
       "properties": {
         "id": "chiang_mai",
@@ -2447,10 +2114,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          96.187598,
-          16.849022
-        ]
+        "coordinates": [96.187598, 16.849022]
       },
       "properties": {
         "id": "yangon",
@@ -2469,10 +2133,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          72.422489,
-          -7.336367
-        ]
+        "coordinates": [72.422489, -7.336367]
       },
       "properties": {
         "id": "diego_garcia",
@@ -2491,10 +2152,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          73.22068,
-          3.202778
-        ]
+        "coordinates": [73.22068, 3.202778]
       },
       "properties": {
         "id": "maldives",
@@ -2513,10 +2171,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          80.217144,
-          6.029592
-        ]
+        "coordinates": [80.217144, 6.029592]
       },
       "properties": {
         "id": "galle",
@@ -2535,10 +2190,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          73.820409,
-          15.491921
-        ]
+        "coordinates": [73.820409, 15.491921]
       },
       "properties": {
         "id": "panaji",
@@ -2557,10 +2209,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          72.856178,
-          19.017656
-        ]
+        "coordinates": [72.856178, 19.017656]
       },
       "properties": {
         "id": "mumbai",
@@ -2579,10 +2228,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          78.042383,
-          27.174858
-        ]
+        "coordinates": [78.042383, 27.174858]
       },
       "properties": {
         "id": "taj_mahal",
@@ -2601,10 +2247,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          77.22496,
-          28.635308
-        ]
+        "coordinates": [77.22496, 28.635308]
       },
       "properties": {
         "id": "new_delhi",
@@ -2623,10 +2266,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          78.080006,
-          30.449895
-        ]
+        "coordinates": [78.080006, 30.449895]
       },
       "properties": {
         "id": "mussoorie",
@@ -2645,10 +2285,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          67.028061,
-          24.893379
-        ]
+        "coordinates": [67.028061, 24.893379]
       },
       "properties": {
         "id": "karachi",
@@ -2667,10 +2304,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          73.060547,
-          33.718151
-        ]
+        "coordinates": [73.060547, 33.718151]
       },
       "properties": {
         "id": "islamabad",
@@ -2689,10 +2323,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          69.204575,
-          34.547392
-        ]
+        "coordinates": [69.204575, 34.547392]
       },
       "properties": {
         "id": "kabul",
@@ -2711,10 +2342,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          58.302483,
-          37.962404
-        ]
+        "coordinates": [58.302483, 37.962404]
       },
       "properties": {
         "id": "ashgabat",
@@ -2733,10 +2361,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          64.19313,
-          41.578861
-        ]
+        "coordinates": [64.19313, 41.578861]
       },
       "properties": {
         "id": "zarafshan",
@@ -2755,10 +2380,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          57.23138,
-          50.270931
-        ]
+        "coordinates": [57.23138, 50.270931]
       },
       "properties": {
         "id": "aqtobe",
@@ -2777,10 +2399,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          49.662659,
-          58.596081
-        ]
+        "coordinates": [49.662659, 58.596081]
       },
       "properties": {
         "id": "kirov",
@@ -2799,10 +2418,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          50.159618,
-          53.20216
-        ]
+        "coordinates": [50.159618, 53.20216]
       },
       "properties": {
         "id": "samara",
@@ -2821,10 +2437,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          44.829205,
-          41.725649
-        ]
+        "coordinates": [44.829205, 41.725649]
       },
       "properties": {
         "id": "tbilisi",
@@ -2843,10 +2456,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          49.867367,
-          40.405388
-        ]
+        "coordinates": [49.867367, 40.405388]
       },
       "properties": {
         "id": "baku",
@@ -2865,10 +2475,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          44.508999,
-          40.15959
-        ]
+        "coordinates": [44.508999, 40.15959]
       },
       "properties": {
         "id": "yerevan",
@@ -2887,10 +2494,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          51.423056,
-          35.696111
-        ]
+        "coordinates": [51.423056, 35.696111]
       },
       "properties": {
         "id": "tehran",
@@ -2909,10 +2513,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          47.9783333,
-          29.3697222
-        ]
+        "coordinates": [47.9783333, 29.3697222]
       },
       "properties": {
         "id": "kuwait_city",
@@ -2931,10 +2532,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          50.534262,
-          26.1226062
-        ]
+        "coordinates": [50.534262, 26.1226062]
       },
       "properties": {
         "id": "riffa",
@@ -2953,10 +2551,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          51.5310398,
-          25.2854473
-        ]
+        "coordinates": [51.5310398, 25.2854473]
       },
       "properties": {
         "id": "doha",
@@ -2975,10 +2570,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          54.400728,
-          24.457818
-        ]
+        "coordinates": [54.400728, 24.457818]
       },
       "properties": {
         "id": "abu_dhabi",
@@ -2997,10 +2589,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          59.5269,
-          22.568
-        ]
+        "coordinates": [59.5269, 22.568]
       },
       "properties": {
         "id": "sur",
@@ -3019,10 +2608,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          55.4466,
-          -4.6309
-        ]
+        "coordinates": [55.4466, -4.6309]
       },
       "properties": {
         "id": "victoria",
@@ -3041,10 +2627,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          55.4550536,
-          -20.8906596
-        ]
+        "coordinates": [55.4550536, -20.8906596]
       },
       "properties": {
         "id": "saint-denis",
@@ -3063,10 +2646,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          57.70042,
-          -20.4069809
-        ]
+        "coordinates": [57.70042, -20.4069809]
       },
       "properties": {
         "id": "mahebourg",
@@ -3085,10 +2665,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          53,
-          -67.5
-        ]
+        "coordinates": [53, -67.5]
       },
       "properties": {
         "id": "enderby_land",
@@ -3107,10 +2684,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          51.800537,
-          -46.413245
-        ]
+        "coordinates": [51.800537, -46.413245]
       },
       "properties": {
         "id": "crozet_islands",
@@ -3129,10 +2703,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          37.93647,
-          -46.642847
-        ]
+        "coordinates": [37.93647, -46.642847]
       },
       "properties": {
         "id": "prince_edward_islands",
@@ -3151,10 +2722,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          46.9886,
-          -25.0245
-        ]
+        "coordinates": [46.9886, -25.0245]
       },
       "properties": {
         "id": "taolagnaro",
@@ -3173,10 +2741,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          47.521305,
-          -18.903084
-        ]
+        "coordinates": [47.521305, -18.903084]
       },
       "properties": {
         "id": "antananarivo",
@@ -3195,10 +2760,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          45.227872,
-          -12.7809488
-        ]
+        "coordinates": [45.227872, -12.7809488]
       },
       "properties": {
         "id": "mamoudzou",
@@ -3217,10 +2779,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          43.2412,
-          -11.7004
-        ]
+        "coordinates": [43.2412, -11.7004]
       },
       "properties": {
         "id": "moroni",
@@ -3239,10 +2798,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          39.3822,
-          -6.097406
-        ]
+        "coordinates": [39.3822, -6.097406]
       },
       "properties": {
         "id": "zanzibar",
@@ -3261,10 +2817,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          39.672859,
-          -4.053054
-        ]
+        "coordinates": [39.672859, -4.053054]
       },
       "properties": {
         "id": "mombasa",
@@ -3283,10 +2836,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          44.7686135,
-          1.7174656
-        ]
+        "coordinates": [44.7686135, 1.7174656]
       },
       "properties": {
         "id": "merca",
@@ -3305,10 +2855,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          32.580986,
-          0.314482
-        ]
+        "coordinates": [32.580986, 0.314482]
       },
       "properties": {
         "id": "kampala",
@@ -3327,10 +2874,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          36.811676,
-          -1.292197
-        ]
+        "coordinates": [36.811676, -1.292197]
       },
       "properties": {
         "id": "nairobi",
@@ -3349,10 +2893,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          40.033333,
-          7.916667
-        ]
+        "coordinates": [40.033333, 7.916667]
       },
       "properties": {
         "id": "jima",
@@ -3371,10 +2912,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          42.8796227,
-          11.7913106
-        ]
+        "coordinates": [42.8796227, 11.7913106]
       },
       "properties": {
         "id": "tadjoura",
@@ -3393,10 +2931,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          44.0177989,
-          13.5775886
-        ]
+        "coordinates": [44.0177989, 13.5775886]
       },
       "properties": {
         "id": "taiz",
@@ -3415,10 +2950,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          38.9250517,
-          15.3228767
-        ]
+        "coordinates": [38.9250517, 15.3228767]
       },
       "properties": {
         "id": "asmara",
@@ -3437,10 +2969,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          42.567816,
-          16.884389
-        ]
+        "coordinates": [42.567816, 16.884389]
       },
       "properties": {
         "id": "jizan",
@@ -3459,10 +2988,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          44.3922,
-          33.3157
-        ]
+        "coordinates": [44.3922, 33.3157]
       },
       "properties": {
         "id": "baghdad",
@@ -3481,10 +3007,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          39.717074,
-          47.229309
-        ]
+        "coordinates": [39.717074, 47.229309]
       },
       "properties": {
         "id": "rostov_on_don",
@@ -3503,10 +3026,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          37.617633,
-          55.755786
-        ]
+        "coordinates": [37.617633, 55.755786]
       },
       "properties": {
         "id": "moscow",
@@ -3525,10 +3045,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          30.315785,
-          59.939039
-        ]
+        "coordinates": [30.315785, 59.939039]
       },
       "properties": {
         "id": "st_petersburg",
@@ -3547,10 +3064,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          25.847187,
-          66.543708
-        ]
+        "coordinates": [25.847187, 66.543708]
       },
       "properties": {
         "id": "rovaniemi",
@@ -3569,10 +3083,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          24.936218,
-          60.17294
-        ]
+        "coordinates": [24.936218, 60.17294]
       },
       "properties": {
         "id": "helsinki",
@@ -3591,10 +3102,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          26.714828,
-          58.370884
-        ]
+        "coordinates": [26.714828, 58.370884]
       },
       "properties": {
         "id": "tartu",
@@ -3613,10 +3121,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          24.097415,
-          56.948455
-        ]
+        "coordinates": [24.097415, 56.948455]
       },
       "properties": {
         "id": "riga",
@@ -3635,10 +3140,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          23.909478,
-          54.901215
-        ]
+        "coordinates": [23.909478, 54.901215]
       },
       "properties": {
         "id": "kaunas",
@@ -3657,10 +3159,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          30.999845,
-          52.434005
-        ]
+        "coordinates": [30.999845, 52.434005]
       },
       "properties": {
         "id": "gomel",
@@ -3679,10 +3178,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          30.741077,
-          46.490499
-        ]
+        "coordinates": [30.741077, 46.490499]
       },
       "properties": {
         "id": "odessa",
@@ -3701,10 +3197,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          28.849742,
-          47.016717
-        ]
+        "coordinates": [28.849742, 47.016717]
       },
       "properties": {
         "id": "chisinau",
@@ -3723,10 +3216,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          23.596055,
-          46.772348
-        ]
+        "coordinates": [23.596055, 46.772348]
       },
       "properties": {
         "id": "cluj_napoca",
@@ -3745,10 +3235,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          26.098053,
-          44.430785
-        ]
+        "coordinates": [26.098053, 44.430785]
       },
       "properties": {
         "id": "bucharest",
@@ -3767,10 +3254,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          23.321888,
-          42.696777
-        ]
+        "coordinates": [23.321888, 42.696777]
       },
       "properties": {
         "id": "sofia",
@@ -3789,10 +3273,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          22.937113,
-          40.635488
-        ]
+        "coordinates": [22.937113, 40.635488]
       },
       "properties": {
         "id": "thessaloniki",
@@ -3811,10 +3292,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          26.3051,
-          38.3209
-        ]
+        "coordinates": [26.3051, 38.3209]
       },
       "properties": {
         "id": "cesme",
@@ -3833,10 +3311,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          28.975926,
-          41.012379
-        ]
+        "coordinates": [28.975926, 41.012379]
       },
       "properties": {
         "id": "istanbul",
@@ -3855,10 +3330,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          29.984556,
-          36.258908
-        ]
+        "coordinates": [29.984556, 36.258908]
       },
       "properties": {
         "id": "myra",
@@ -3877,10 +3349,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          33.366508,
-          35.166932
-        ]
+        "coordinates": [33.366508, 35.166932]
       },
       "properties": {
         "id": "nicosia",
@@ -3899,10 +3368,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          35.5017767,
-          33.8937913
-        ]
+        "coordinates": [35.5017767, 33.8937913]
       },
       "properties": {
         "id": "beirut",
@@ -3921,10 +3387,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          36.2765279,
-          33.5138073
-        ]
+        "coordinates": [36.2765279, 33.5138073]
       },
       "properties": {
         "id": "damascus",
@@ -3943,10 +3406,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          36.0941795,
-          32.0608187
-        ]
+        "coordinates": [36.0941795, 32.0608187]
       },
       "properties": {
         "id": "zarqa",
@@ -3965,10 +3425,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          35.235772,
-          31.777577
-        ]
+        "coordinates": [35.235772, 31.777577]
       },
       "properties": {
         "id": "jerusalem",
@@ -3987,10 +3444,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          29.919844,
-          31.208137
-        ]
+        "coordinates": [29.919844, 31.208137]
       },
       "properties": {
         "id": "alexandria",
@@ -4009,10 +3463,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          32.6594,
-          13.159
-        ]
+        "coordinates": [32.6594, 13.159]
       },
       "properties": {
         "id": "kusti",
@@ -4031,10 +3482,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          31.609121,
-          4.848364
-        ]
+        "coordinates": [31.609121, 4.848364]
       },
       "properties": {
         "id": "juba",
@@ -4053,10 +3501,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          30.1044288,
-          -1.9705786
-        ]
+        "coordinates": [30.1044288, -1.9705786]
       },
       "properties": {
         "id": "kigali",
@@ -4075,10 +3520,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          29.3598782,
-          -3.361378
-        ]
+        "coordinates": [29.3598782, -3.361378]
       },
       "properties": {
         "id": "bujumbura",
@@ -4097,10 +3539,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          25.915138,
-          -2.92075
-        ]
+        "coordinates": [25.915138, -2.92075]
       },
       "properties": {
         "id": "kindu",
@@ -4119,10 +3558,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          29.562201,
-          -8.568496
-        ]
+        "coordinates": [29.562201, -8.568496]
       },
       "properties": {
         "id": "kabwe",
@@ -4141,10 +3577,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          34.0084395,
-          -11.4389649
-        ]
+        "coordinates": [34.0084395, -11.4389649]
       },
       "properties": {
         "id": "mzuzu",
@@ -4163,10 +3596,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          25.827452,
-          -17.933113
-        ]
+        "coordinates": [25.827452, -17.933113]
       },
       "properties": {
         "id": "victoria_falls",
@@ -4185,10 +3615,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          25.914042,
-          -24.628545
-        ]
+        "coordinates": [25.914042, -24.628545]
       },
       "properties": {
         "id": "gaborone",
@@ -4207,10 +3634,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          28.045488,
-          -26.201452
-        ]
+        "coordinates": [28.045488, -26.201452]
       },
       "properties": {
         "id": "johannesburg",
@@ -4229,10 +3653,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          31.1366715,
-          -26.3054482
-        ]
+        "coordinates": [31.1366715, -26.3054482]
       },
       "properties": {
         "id": "mbabane",
@@ -4251,10 +3672,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          32.583733,
-          -25.965453
-        ]
+        "coordinates": [32.583733, -25.965453]
       },
       "properties": {
         "id": "maputo",
@@ -4273,10 +3691,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          27.4869229,
-          -29.3150767
-        ]
+        "coordinates": [27.4869229, -29.3150767]
       },
       "properties": {
         "id": "maseru",
@@ -4295,10 +3710,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          18.424072,
-          -33.918292
-        ]
+        "coordinates": [18.424072, -33.918292]
       },
       "properties": {
         "id": "cape_town",
@@ -4317,10 +3729,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          14.578359,
-          -22.647148
-        ]
+        "coordinates": [14.578359, -22.647148]
       },
       "properties": {
         "id": "swakopmund",
@@ -4339,10 +3748,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          13.227097,
-          -8.815502
-        ]
+        "coordinates": [13.227097, -8.815502]
       },
       "properties": {
         "id": "luanda",
@@ -4361,10 +3767,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          11.855747,
-          -4.768636
-        ]
+        "coordinates": [11.855747, -4.768636]
       },
       "properties": {
         "id": "pointe_noire",
@@ -4383,10 +3786,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          10.102,
-          0.1578
-        ]
+        "coordinates": [10.102, 0.1578]
       },
       "properties": {
         "id": "kango",
@@ -4405,10 +3805,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          20.6665,
-          5.7566
-        ]
+        "coordinates": [20.6665, 5.7566]
       },
       "properties": {
         "id": "bambari",
@@ -4427,10 +3824,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          9.6977,
-          4.0445
-        ]
+        "coordinates": [9.6977, 4.0445]
       },
       "properties": {
         "id": "douala",
@@ -4449,10 +3843,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          8.777732,
-          3.753382
-        ]
+        "coordinates": [8.777732, 3.753382]
       },
       "properties": {
         "id": "malabo",
@@ -4471,10 +3862,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.733343,
-          0.3301924
-        ]
+        "coordinates": [6.733343, 0.3301924]
       },
       "properties": {
         "id": "sao_tome",
@@ -4493,10 +3881,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          3.3958,
-          6.453
-        ]
+        "coordinates": [3.3958, 6.453]
       },
       "properties": {
         "id": "lagos",
@@ -4515,10 +3900,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          7.488899,
-          9.058533
-        ]
+        "coordinates": [7.488899, 9.058533]
       },
       "properties": {
         "id": "abuja",
@@ -4537,10 +3919,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          15.040981,
-          12.130897
-        ]
+        "coordinates": [15.040981, 12.130897]
       },
       "properties": {
         "id": "ndjamena",
@@ -4559,10 +3938,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          7.9886,
-          16.9893
-        ]
+        "coordinates": [7.9886, 16.9893]
       },
       "properties": {
         "id": "agadez",
@@ -4581,10 +3957,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          14.4161,
-          27.0521
-        ]
+        "coordinates": [14.4161, 27.0521]
       },
       "properties": {
         "id": "sabha",
@@ -4603,10 +3976,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.756993,
-          36.070905
-        ]
+        "coordinates": [4.756993, 36.070905]
       },
       "properties": {
         "id": "bordj_bou_arreridj",
@@ -4625,10 +3995,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          10.1815316,
-          36.8064948
-        ]
+        "coordinates": [10.1815316, 36.8064948]
       },
       "properties": {
         "id": "tunis",
@@ -4647,10 +4014,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          14.239278,
-          36.044907
-        ]
+        "coordinates": [14.239278, 36.044907]
       },
       "properties": {
         "id": "gozo",
@@ -4669,10 +4033,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          13.361159,
-          38.115681
-        ]
+        "coordinates": [13.361159, 38.115681]
       },
       "properties": {
         "id": "palermo",
@@ -4691,10 +4052,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          14.3757985,
-          40.6262925
-        ]
+        "coordinates": [14.3757985, 40.6262925]
       },
       "properties": {
         "id": "sorrento",
@@ -4713,10 +4071,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          12.482324,
-          41.895466
-        ]
+        "coordinates": [12.482324, 41.895466]
       },
       "properties": {
         "id": "rome",
@@ -4735,10 +4090,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          12.453389,
-          41.902916
-        ]
+        "coordinates": [12.453389, 41.902916]
       },
       "properties": {
         "id": "vatican_city",
@@ -4757,10 +4109,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          12.4896372,
-          43.9810089
-        ]
+        "coordinates": [12.4896372, 43.9810089]
       },
       "properties": {
         "id": "dogana",
@@ -4779,10 +4128,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          12.338505,
-          45.434961
-        ]
+        "coordinates": [12.338505, 45.434961]
       },
       "properties": {
         "id": "venice",
@@ -4801,10 +4147,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          16.446622,
-          43.515996
-        ]
+        "coordinates": [16.446622, 43.515996]
       },
       "properties": {
         "id": "split",
@@ -4823,10 +4166,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          19.2593642,
-          42.4304196
-        ]
+        "coordinates": [19.2593642, 42.4304196]
       },
       "properties": {
         "id": "podgorica",
@@ -4845,10 +4185,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          19.8186982,
-          41.3275459
-        ]
+        "coordinates": [19.8186982, 41.3275459]
       },
       "properties": {
         "id": "tirana",
@@ -4867,10 +4204,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          20.4489216,
-          44.786568
-        ]
+        "coordinates": [20.4489216, 44.786568]
       },
       "properties": {
         "id": "belgrade",
@@ -4889,10 +4223,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          17.186565,
-          44.762885
-        ]
+        "coordinates": [17.186565, 44.762885]
       },
       "properties": {
         "id": "banja_luka",
@@ -4911,10 +4242,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          14.505965,
-          46.051426
-        ]
+        "coordinates": [14.505965, 46.051426]
       },
       "properties": {
         "id": "ljubljana",
@@ -4933,10 +4261,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          18.423275,
-          47.185014
-        ]
+        "coordinates": [18.423275, 47.185014]
       },
       "properties": {
         "id": "szekesfehervar",
@@ -4955,10 +4280,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          17.10731,
-          48.148376
-        ]
+        "coordinates": [17.10731, 48.148376]
       },
       "properties": {
         "id": "bratislava",
@@ -4977,10 +4299,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          14.42046,
-          50.087811
-        ]
+        "coordinates": [14.42046, 50.087811]
       },
       "properties": {
         "id": "prague",
@@ -4999,10 +4318,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          19.033466,
-          50.264003
-        ]
+        "coordinates": [19.033466, 50.264003]
       },
       "properties": {
         "id": "katowice",
@@ -5021,10 +4337,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          13.052607,
-          47.81014
-        ]
+        "coordinates": [13.052607, 47.81014]
       },
       "properties": {
         "id": "salzburg",
@@ -5043,10 +4356,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          9.5209277,
-          47.1410303
-        ]
+        "coordinates": [9.5209277, 47.1410303]
       },
       "properties": {
         "id": "vaduz",
@@ -5065,10 +4375,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          8.308391,
-          47.051741
-        ]
+        "coordinates": [8.308391, 47.051741]
       },
       "properties": {
         "id": "lucerne",
@@ -5087,10 +4394,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          11.078814,
-          49.451605
-        ]
+        "coordinates": [11.078814, 49.451605]
       },
       "properties": {
         "id": "nuremberg",
@@ -5109,10 +4413,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          13.411494,
-          52.52348
-        ]
+        "coordinates": [13.411494, 52.52348]
       },
       "properties": {
         "id": "berlin",
@@ -5131,10 +4432,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          9.990692,
-          53.559073
-        ]
+        "coordinates": [9.990692, 53.559073]
       },
       "properties": {
         "id": "hamburg",
@@ -5153,10 +4451,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          12.568016,
-          55.677004
-        ]
+        "coordinates": [12.568016, 55.677004]
       },
       "properties": {
         "id": "copenhagen",
@@ -5175,10 +4470,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          18.06427,
-          59.33389
-        ]
+        "coordinates": [18.06427, 59.33389]
       },
       "properties": {
         "id": "stockholm",
@@ -5197,10 +4489,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          14.635339,
-          63.178579
-        ]
+        "coordinates": [14.635339, 63.178579]
       },
       "properties": {
         "id": "ostersund",
@@ -5219,10 +4508,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          10.396853,
-          63.43028
-        ]
+        "coordinates": [10.396853, 63.43028]
       },
       "properties": {
         "id": "trondheim",
@@ -5241,10 +4527,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.890951,
-          52.373812
-        ]
+        "coordinates": [4.890951, 52.373812]
       },
       "properties": {
         "id": "netherlands",
@@ -5263,10 +4546,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          4.394649,
-          51.219773
-        ]
+        "coordinates": [4.394649, 51.219773]
       },
       "properties": {
         "id": "antwerp",
@@ -5285,10 +4565,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          2.350987,
-          48.856667
-        ]
+        "coordinates": [2.350987, 48.856667]
       },
       "properties": {
         "id": "paris",
@@ -5307,10 +4584,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          6.129596,
-          49.610004
-        ]
+        "coordinates": [6.129596, 49.610004]
       },
       "properties": {
         "id": "luxembourg",
@@ -5329,10 +4603,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          7.425577,
-          43.740439
-        ]
+        "coordinates": [7.425577, 43.740439]
       },
       "properties": {
         "id": "monte_carlo",
@@ -5351,10 +4622,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.58311,
-          42.536331
-        ]
+        "coordinates": [1.58311, 42.536331]
       },
       "properties": {
         "id": "encamp",
@@ -5373,10 +4641,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          2.169919,
-          41.387917
-        ]
+        "coordinates": [2.169919, 41.387917]
       },
       "properties": {
         "id": "barcelona",
@@ -5395,10 +4660,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -3.700345,
-          40.416691
-        ]
+        "coordinates": [-3.700345, 40.416691]
       },
       "properties": {
         "id": "madrid",
@@ -5417,10 +4679,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -5.98454,
-          37.389022
-        ]
+        "coordinates": [-5.98454, 37.389022]
       },
       "properties": {
         "id": "seville",
@@ -5439,10 +4698,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -9.772413,
-          31.510357
-        ]
+        "coordinates": [-9.772413, 31.510357]
       },
       "properties": {
         "id": "essaouira",
@@ -5461,10 +4717,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -11.3987,
-          16.617
-        ]
+        "coordinates": [-11.3987, 16.617]
       },
       "properties": {
         "id": "kiffa",
@@ -5483,10 +4736,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -3.0073,
-          16.7688
-        ]
+        "coordinates": [-3.0073, 16.7688]
       },
       "properties": {
         "id": "tombouctou",
@@ -5505,10 +4755,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.3517526,
-          12.2562183
-        ]
+        "coordinates": [-2.3517526, 12.2562183]
       },
       "properties": {
         "id": "koudougou",
@@ -5527,10 +4774,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.6663523,
-          9.7080916
-        ]
+        "coordinates": [1.6663523, 9.7080916]
       },
       "properties": {
         "id": "djougou",
@@ -5549,10 +4793,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.22745,
-          6.128357
-        ]
+        "coordinates": [1.22745, 6.128357]
       },
       "properties": {
         "id": "lome",
@@ -5571,10 +4812,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.196724,
-          5.55824
-        ]
+        "coordinates": [-0.196724, 5.55824]
       },
       "properties": {
         "id": "accra",
@@ -5593,10 +4831,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -5.3628,
-          5.8478
-        ]
+        "coordinates": [-5.3628, 5.8478]
       },
       "properties": {
         "id": "divo",
@@ -5615,10 +4850,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -9.4728244,
-          7.0024321
-        ]
+        "coordinates": [-9.4728244, 7.0024321]
       },
       "properties": {
         "id": "gbarnga",
@@ -5637,10 +4869,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -11.7409946,
-          7.9551791
-        ]
+        "coordinates": [-11.7409946, 7.9551791]
       },
       "properties": {
         "id": "bo",
@@ -5659,10 +4888,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -12.298036,
-          11.323278
-        ]
+        "coordinates": [-12.298036, 11.323278]
       },
       "properties": {
         "id": "labe",
@@ -5681,10 +4907,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -15.5843227,
-          11.8632196
-        ]
+        "coordinates": [-15.5843227, 11.8632196]
       },
       "properties": {
         "id": "bissau",
@@ -5703,10 +4926,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -16.2386,
-          12.8135
-        ]
+        "coordinates": [-16.2386, 12.8135]
       },
       "properties": {
         "id": "bignona",
@@ -5725,10 +4945,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -16.6880841,
-          13.4502991
-        ]
+        "coordinates": [-16.6880841, 13.4502991]
       },
       "properties": {
         "id": "serekunda",
@@ -5747,10 +4964,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -17.333336,
-          14.751311
-        ]
+        "coordinates": [-17.333336, 14.751311]
       },
       "properties": {
         "id": "dakar",
@@ -5769,10 +4983,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -16.254856,
-          28.46981
-        ]
+        "coordinates": [-16.254856, 28.46981]
       },
       "properties": {
         "id": "santa_cruz_de_tenerife",
@@ -5791,10 +5002,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -9.136162,
-          38.708286
-        ]
+        "coordinates": [-9.136162, 38.708286]
       },
       "properties": {
         "id": "lisbon",
@@ -5813,10 +5021,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.9234409,
-          43.2569629
-        ]
+        "coordinates": [-2.9234409, 43.2569629]
       },
       "properties": {
         "id": "bilbao",
@@ -5835,10 +5040,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          1.450444,
-          43.600443
-        ]
+        "coordinates": [1.450444, 43.600443]
       },
       "properties": {
         "id": "toulouse",
@@ -5857,10 +5059,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -1.511551,
-          48.635899
-        ]
+        "coordinates": [-1.511551, 48.635899]
       },
       "properties": {
         "id": "mont_saint_michel",
@@ -5879,10 +5078,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -0.126236,
-          51.500152
-        ]
+        "coordinates": [-0.126236, 51.500152]
       },
       "properties": {
         "id": "london",
@@ -5901,10 +5097,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -3.943367,
-          51.620069
-        ]
+        "coordinates": [-3.943367, 51.620069]
       },
       "properties": {
         "id": "swansea",
@@ -5923,10 +5116,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -2.993663,
-          53.406759
-        ]
+        "coordinates": [-2.993663, 53.406759]
       },
       "properties": {
         "id": "liverpool",
@@ -5945,10 +5135,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -3.187536,
-          55.950176
-        ]
+        "coordinates": [-3.187536, 55.950176]
       },
       "properties": {
         "id": "edinburgh",
@@ -5967,10 +5154,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -4.48579,
-          54.152981
-        ]
+        "coordinates": [-4.48579, 54.152981]
       },
       "properties": {
         "id": "douglas",
@@ -5989,10 +5173,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -6.254954,
-          53.343865
-        ]
+        "coordinates": [-6.254954, 53.343865]
       },
       "properties": {
         "id": "dublin",
@@ -6011,10 +5192,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -5.930117,
-          54.596471
-        ]
+        "coordinates": [-5.930117, 54.596471]
       },
       "properties": {
         "id": "belfast",
@@ -6033,10 +5211,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -8.878969,
-          52.710743
-        ]
+        "coordinates": [-8.878969, 52.710743]
       },
       "properties": {
         "id": "shannon",
@@ -6055,10 +5230,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -18.090022,
-          65.681097
-        ]
+        "coordinates": [-18.090022, 65.681097]
       },
       "properties": {
         "id": "akureyri",
@@ -6077,10 +5249,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -28.288376,
-          38.472124
-        ]
+        "coordinates": [-28.288376, 38.472124]
       },
       "properties": {
         "id": "lajes_do_pico",
@@ -6099,10 +5268,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -24.500119,
-          14.895901
-        ]
+        "coordinates": [-24.500119, 14.895901]
       },
       "properties": {
         "id": "sao_filipe",
@@ -6121,10 +5287,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -36.511219,
-          -54.274151
-        ]
+        "coordinates": [-36.511219, -54.274151]
       },
       "properties": {
         "id": "grytviken",
@@ -6143,10 +5306,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -58.969021,
-          -51.8311
-        ]
+        "coordinates": [-58.969021, -51.8311]
       },
       "properties": {
         "id": "goose_green",
@@ -6165,10 +5325,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -70.90555,
-          -53.160207
-        ]
+        "coordinates": [-70.90555, -53.160207]
       },
       "properties": {
         "id": "punta_arenas",
@@ -6187,10 +5344,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -58.373161,
-          -34.608418
-        ]
+        "coordinates": [-58.373161, -34.608418]
       },
       "properties": {
         "id": "buenos_aires",
@@ -6209,10 +5363,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -56.182022,
-          -34.881988
-        ]
+        "coordinates": [-56.182022, -34.881988]
       },
       "properties": {
         "id": "montevideo",
@@ -6231,10 +5382,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -64.201534,
-          -31.36628
-        ]
+        "coordinates": [-64.201534, -31.36628]
       },
       "properties": {
         "id": "cordoba",
@@ -6253,10 +5401,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -46.638818,
-          -23.548943
-        ]
+        "coordinates": [-46.638818, -23.548943]
       },
       "properties": {
         "id": "sao_paulo",
@@ -6275,10 +5420,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -43.209587,
-          -22.903539
-        ]
+        "coordinates": [-43.209587, -22.903539]
       },
       "properties": {
         "id": "rio_de_janeiro",
@@ -6297,10 +5439,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -52.3134531,
-          4.92242
-        ]
+        "coordinates": [-52.3134531, 4.92242]
       },
       "properties": {
         "id": "cayenne",
@@ -6319,10 +5458,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -55.2038278,
-          5.8520355
-        ]
+        "coordinates": [-55.2038278, 5.8520355]
       },
       "properties": {
         "id": "paramaribo",
@@ -6341,10 +5477,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -58.154831,
-          6.804611
-        ]
+        "coordinates": [-58.154831, 6.804611]
       },
       "properties": {
         "id": "georgetown",
@@ -6363,10 +5496,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -61.17115,
-          10.304254
-        ]
+        "coordinates": [-61.17115, 10.304254]
       },
       "properties": {
         "id": "rio_claro",
@@ -6385,10 +5515,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -61.748614,
-          12.053968
-        ]
+        "coordinates": [-61.748614, 12.053968]
       },
       "properties": {
         "id": "saint_georges",
@@ -6407,10 +5534,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -61.228854,
-          13.155111
-        ]
+        "coordinates": [-61.228854, 13.155111]
       },
       "properties": {
         "id": "kingstown",
@@ -6429,10 +5553,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -60.990031,
-          14.011044
-        ]
+        "coordinates": [-60.990031, 14.011044]
       },
       "properties": {
         "id": "castries",
@@ -6451,10 +5572,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -59.636538,
-          13.192174
-        ]
+        "coordinates": [-59.636538, 13.192174]
       },
       "properties": {
         "id": "holetown",
@@ -6473,10 +5591,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -60.8391304,
-          14.5456332
-        ]
+        "coordinates": [-60.8391304, 14.5456332]
       },
       "properties": {
         "id": "le_vauclin",
@@ -6495,10 +5610,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -61.3793554,
-          15.3091676
-        ]
+        "coordinates": [-61.3793554, 15.3091676]
       },
       "properties": {
         "id": "roseau",
@@ -6517,10 +5629,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -61.571718,
-          16.2444738
-        ]
+        "coordinates": [-61.571718, 16.2444738]
       },
       "properties": {
         "id": "baie-mahault",
@@ -6539,10 +5648,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -61.8262956,
-          17.1592525
-        ]
+        "coordinates": [-61.8262956, 17.1592525]
       },
       "properties": {
         "id": "cedar_grove",
@@ -6561,10 +5667,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -66.118302,
-          18.46646
-        ]
+        "coordinates": [-66.118302, 18.46646]
       },
       "properties": {
         "id": "san_juan",
@@ -6583,10 +5686,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -51.721407,
-          64.18362
-        ]
+        "coordinates": [-51.721407, 64.18362]
       },
       "properties": {
         "id": "nuuk",
@@ -6605,10 +5705,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -55.65049,
-          48.929001
-        ]
+        "coordinates": [-55.65049, 48.929001]
       },
       "properties": {
         "id": "grand_falls-windsor",
@@ -6627,10 +5724,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -66.909417,
-          52.945175
-        ]
+        "coordinates": [-66.909417, 52.945175]
       },
       "properties": {
         "id": "labrador_city",
@@ -6649,10 +5743,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -63.126521,
-          46.235419
-        ]
+        "coordinates": [-63.126521, 46.235419]
       },
       "properties": {
         "id": "charlottetown",
@@ -6671,10 +5762,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -63.577491,
-          44.670089
-        ]
+        "coordinates": [-63.577491, 44.670089]
       },
       "properties": {
         "id": "dartmouth",
@@ -6693,10 +5781,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -66.063243,
-          45.272938
-        ]
+        "coordinates": [-66.063243, 45.272938]
       },
       "properties": {
         "id": "st_john",
@@ -6715,10 +5800,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -66.918161,
-          10.503259
-        ]
+        "coordinates": [-66.918161, 10.503259]
       },
       "properties": {
         "id": "caracas",
@@ -6737,10 +5819,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -60.026127,
-          -3.107192
-        ]
+        "coordinates": [-60.026127, -3.107192]
       },
       "properties": {
         "id": "manaus",
@@ -6759,10 +5838,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -56.096769,
-          -15.600754
-        ]
+        "coordinates": [-56.096769, -15.600754]
       },
       "properties": {
         "id": "cuiaba",
@@ -6781,10 +5857,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -56.446724,
-          -24.091369
-        ]
+        "coordinates": [-56.446724, -24.091369]
       },
       "properties": {
         "id": "san_pedro",
@@ -6803,10 +5876,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -63.182461,
-          -17.783169
-        ]
+        "coordinates": [-63.182461, -17.783169]
       },
       "properties": {
         "id": "santa_cruz_de_la_sierra",
@@ -6825,10 +5895,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -70.151469,
-          -20.210988
-        ]
+        "coordinates": [-70.151469, -20.210988]
       },
       "properties": {
         "id": "iquique",
@@ -6847,10 +5914,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -72.545777,
-          -13.163737
-        ]
+        "coordinates": [-72.545777, -13.163737]
       },
       "properties": {
         "id": "machu_picchu",
@@ -6869,10 +5933,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -77.028333,
-          -12.043333
-        ]
+        "coordinates": [-77.028333, -12.043333]
       },
       "properties": {
         "id": "lima",
@@ -6891,10 +5952,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.926286,
-          -2.171583
-        ]
+        "coordinates": [-79.926286, -2.171583]
       },
       "properties": {
         "id": "guayaquil",
@@ -6913,10 +5971,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.075317,
-          4.605172
-        ]
+        "coordinates": [-74.075317, 4.605172]
       },
       "properties": {
         "id": "bogota",
@@ -6935,10 +5990,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.879913,
-          9.368985
-        ]
+        "coordinates": [-79.879913, 9.368985]
       },
       "properties": {
         "id": "coco_solo",
@@ -6957,10 +6009,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -77.924042,
-          18.471293
-        ]
+        "coordinates": [-77.924042, 18.471293]
       },
       "properties": {
         "id": "montego_bay",
@@ -6979,10 +6028,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -77.91529,
-          21.379674
-        ]
+        "coordinates": [-77.91529, 21.379674]
       },
       "properties": {
         "id": "camaguey",
@@ -7001,10 +6047,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -72.339052,
-          18.549651
-        ]
+        "coordinates": [-72.339052, 18.549651]
       },
       "properties": {
         "id": "port_au_prince",
@@ -7023,10 +6066,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.682953,
-          20.95027
-        ]
+        "coordinates": [-73.682953, 20.95027]
       },
       "properties": {
         "id": "matthew_town",
@@ -7045,10 +6085,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -69.9312117,
-          18.4860575
-        ]
+        "coordinates": [-69.9312117, 18.4860575]
       },
       "properties": {
         "id": "santo_domingo",
@@ -7067,10 +6104,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -81.379227,
-          28.540384
-        ]
+        "coordinates": [-81.379227, 28.540384]
       },
       "properties": {
         "id": "orlando",
@@ -7089,10 +6123,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -84.389663,
-          33.754487
-        ]
+        "coordinates": [-84.389663, 33.754487]
       },
       "properties": {
         "id": "atlanta",
@@ -7111,10 +6142,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.941294,
-          32.793053
-        ]
+        "coordinates": [-79.941294, 32.793053]
       },
       "properties": {
         "id": "charleston",
@@ -7133,10 +6161,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -78.641057,
-          35.776246
-        ]
+        "coordinates": [-78.641057, 35.776246]
       },
       "properties": {
         "id": "raleigh",
@@ -7155,10 +6180,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -81.635375,
-          38.353298
-        ]
+        "coordinates": [-81.635375, 38.353298]
       },
       "properties": {
         "id": "charleston_wv",
@@ -7177,10 +6199,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.487343,
-          37.088631
-        ]
+        "coordinates": [-76.487343, 37.088631]
       },
       "properties": {
         "id": "newport_news",
@@ -7199,10 +6218,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -77.03172,
-          38.908412
-        ]
+        "coordinates": [-77.03172, 38.908412]
       },
       "properties": {
         "id": "washington",
@@ -7221,10 +6237,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.614275,
-          39.294255
-        ]
+        "coordinates": [-76.614275, 39.294255]
       },
       "properties": {
         "id": "baltimore",
@@ -7243,10 +6256,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -75.538493,
-          39.742961
-        ]
+        "coordinates": [-75.538493, 39.742961]
       },
       "properties": {
         "id": "wilmington",
@@ -7265,10 +6275,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.651852,
-          40.285521
-        ]
+        "coordinates": [-76.651852, 40.285521]
       },
       "properties": {
         "id": "hershey",
@@ -7287,10 +6294,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -74.011741,
-          40.220598
-        ]
+        "coordinates": [-74.011741, 40.220598]
       },
       "properties": {
         "id": "asbury_park",
@@ -7309,10 +6313,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.986941,
-          40.75604
-        ]
+        "coordinates": [-73.986941, 40.75604]
       },
       "properties": {
         "id": "new_york",
@@ -7331,10 +6332,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -72.674078,
-          41.766059
-        ]
+        "coordinates": [-72.674078, 41.766059]
       },
       "properties": {
         "id": "new_haven",
@@ -7353,10 +6351,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -71.316599,
-          41.489675
-        ]
+        "coordinates": [-71.316599, 41.489675]
       },
       "properties": {
         "id": "newport",
@@ -7375,10 +6370,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -71.056896,
-          42.35888
-        ]
+        "coordinates": [-71.056896, 42.35888]
       },
       "properties": {
         "id": "boston",
@@ -7397,10 +6389,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -71.463082,
-          42.991007
-        ]
+        "coordinates": [-71.463082, 42.991007]
       },
       "properties": {
         "id": "manchester",
@@ -7419,10 +6408,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.211815,
-          44.476188
-        ]
+        "coordinates": [-73.211815, 44.476188]
       },
       "properties": {
         "id": "burlington",
@@ -7441,10 +6427,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -70.262434,
-          43.65467
-        ]
+        "coordinates": [-70.262434, 43.65467]
       },
       "properties": {
         "id": "maine",
@@ -7463,10 +6446,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -71.206137,
-          46.813919
-        ]
+        "coordinates": [-71.206137, 46.813919]
       },
       "properties": {
         "id": "quebec_city",
@@ -7485,10 +6465,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -73.639076,
-          45.545447
-        ]
+        "coordinates": [-73.639076, 45.545447]
       },
       "properties": {
         "id": "montreal",
@@ -7507,10 +6484,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -75.697517,
-          45.422552
-        ]
+        "coordinates": [-75.697517, 45.422552]
       },
       "properties": {
         "id": "ottawa",
@@ -7529,10 +6503,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -68.517898,
-          63.74676
-        ]
+        "coordinates": [-68.517898, 63.74676]
       },
       "properties": {
         "id": "iqaluit",
@@ -7551,10 +6522,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -76.495647,
-          44.231173
-        ]
+        "coordinates": [-76.495647, 44.231173]
       },
       "properties": {
         "id": "kingston",
@@ -7573,10 +6541,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -79.386755,
-          43.670233
-        ]
+        "coordinates": [-79.386755, 43.670233]
       },
       "properties": {
         "id": "toronto",
@@ -7595,10 +6560,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -84.332533,
-          46.514413
-        ]
+        "coordinates": [-84.332533, 46.514413]
       },
       "properties": {
         "id": "sault_ste_marie",
@@ -7617,10 +6579,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -83.045913,
-          42.330165
-        ]
+        "coordinates": [-83.045913, 42.330165]
       },
       "properties": {
         "id": "detroit",
@@ -7639,10 +6598,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -82.711054,
-          41.458086
-        ]
+        "coordinates": [-82.711054, 41.458086]
       },
       "properties": {
         "id": "sandusky",
@@ -7661,10 +6617,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -83.000676,
-          39.962208
-        ]
+        "coordinates": [-83.000676, 39.962208]
       },
       "properties": {
         "id": "columbus",
@@ -7683,10 +6636,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -86.156255,
-          39.767016
-        ]
+        "coordinates": [-86.156255, 39.767016]
       },
       "properties": {
         "id": "indianapolis",
@@ -7705,10 +6655,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -86.914129,
-          38.120243
-        ]
+        "coordinates": [-86.914129, 38.120243]
       },
       "properties": {
         "id": "santa_claus",
@@ -7727,10 +6674,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -85.759486,
-          38.254552
-        ]
+        "coordinates": [-85.759486, 38.254552]
       },
       "properties": {
         "id": "louisville",
@@ -7749,10 +6693,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -86.783382,
-          36.165416
-        ]
+        "coordinates": [-86.783382, 36.165416]
       },
       "properties": {
         "id": "nashville",
@@ -7771,10 +6712,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -90.19841,
-          38.627522
-        ]
+        "coordinates": [-90.19841, 38.627522]
       },
       "properties": {
         "id": "st_louis",
@@ -7793,10 +6731,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -86.309184,
-          32.380246
-        ]
+        "coordinates": [-86.309184, 32.380246]
       },
       "properties": {
         "id": "montgomery",
@@ -7815,10 +6750,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -88.1962133,
-          17.5045661
-        ]
+        "coordinates": [-88.1962133, 17.5045661]
       },
       "properties": {
         "id": "belize_city",
@@ -7837,10 +6769,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -88.025662,
-          15.511452
-        ]
+        "coordinates": [-88.025662, 15.511452]
       },
       "properties": {
         "id": "san_pedro_sula",
@@ -7859,10 +6788,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -85.9151211,
-          12.9290069
-        ]
+        "coordinates": [-85.9151211, 12.9290069]
       },
       "properties": {
         "id": "matagalpa",
@@ -7881,10 +6807,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -84.082012,
-          9.927128
-        ]
+        "coordinates": [-84.082012, 9.927128]
       },
       "properties": {
         "id": "san_jose",
@@ -7903,10 +6826,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -91.518932,
-          -0.378108
-        ]
+        "coordinates": [-91.518932, -0.378108]
       },
       "properties": {
         "id": "fernandina",
@@ -7925,10 +6845,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -89.2894733,
-          13.6757837
-        ]
+        "coordinates": [-89.2894733, 13.6757837]
       },
       "properties": {
         "id": "santa_tecla",
@@ -7947,10 +6864,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -91.521959,
-          14.836156
-        ]
+        "coordinates": [-91.521959, 14.836156]
       },
       "properties": {
         "id": "quetzaltenango",
@@ -7969,10 +6883,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -90.070381,
-          29.943073
-        ]
+        "coordinates": [-90.070381, 29.943073]
       },
       "properties": {
         "id": "new_orleans",
@@ -7991,10 +6902,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -90.177951,
-          32.312208
-        ]
+        "coordinates": [-90.177951, 32.312208]
       },
       "properties": {
         "id": "jackson",
@@ -8013,10 +6921,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -94.157254,
-          36.063829
-        ]
+        "coordinates": [-94.157254, 36.063829]
       },
       "properties": {
         "id": "fayetteville",
@@ -8035,10 +6940,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -91.673638,
-          41.978766
-        ]
+        "coordinates": [-91.673638, 41.978766]
       },
       "properties": {
         "id": "cedar_rapids",
@@ -8057,10 +6959,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -87.624333,
-          41.879535
-        ]
+        "coordinates": [-87.624333, 41.879535]
       },
       "properties": {
         "id": "chicago",
@@ -8079,10 +6978,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -87.906131,
-          43.040658
-        ]
+        "coordinates": [-87.906131, 43.040658]
       },
       "properties": {
         "id": "milwaukee",
@@ -8101,10 +6997,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -93.264351,
-          44.977482
-        ]
+        "coordinates": [-93.264351, 44.977482]
       },
       "properties": {
         "id": "minneapolis",
@@ -8123,10 +7016,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -97.138341,
-          49.895591
-        ]
+        "coordinates": [-97.138341, 49.895591]
       },
       "properties": {
         "id": "winnipeg",
@@ -8145,10 +7035,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -96.798263,
-          46.875
-        ]
+        "coordinates": [-96.798263, 46.875]
       },
       "properties": {
         "id": "fargo",
@@ -8167,10 +7054,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -96.731291,
-          43.54599
-        ]
+        "coordinates": [-96.731291, 43.54599]
       },
       "properties": {
         "id": "sioux_falls",
@@ -8189,10 +7073,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -96.70262,
-          40.813628
-        ]
+        "coordinates": [-96.70262, 40.813628]
       },
       "properties": {
         "id": "lincoln",
@@ -8211,10 +7092,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -95.260632,
-          38.94261
-        ]
+        "coordinates": [-95.260632, 38.94261]
       },
       "properties": {
         "id": "lawrence",
@@ -8233,10 +7111,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -95.975663,
-          36.133354
-        ]
+        "coordinates": [-95.975663, 36.133354]
       },
       "properties": {
         "id": "tulsa",
@@ -8255,10 +7130,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -96.792098,
-          32.775146
-        ]
+        "coordinates": [-96.792098, 32.775146]
       },
       "properties": {
         "id": "dallas",
@@ -8277,10 +7149,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -100.309639,
-          25.67464
-        ]
+        "coordinates": [-100.309639, 25.67464]
       },
       "properties": {
         "id": "monterrey",
@@ -8299,10 +7168,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -103.349625,
-          20.659649
-        ]
+        "coordinates": [-103.349625, 20.659649]
       },
       "properties": {
         "id": "guadalajara",
@@ -8321,10 +7187,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -99.127571,
-          19.42705
-        ]
+        "coordinates": [-99.127571, 19.42705]
       },
       "properties": {
         "id": "mexico_city",
@@ -8343,10 +7206,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -109.342495,
-          -27.130829
-        ]
+        "coordinates": [-109.342495, -27.130829]
       },
       "properties": {
         "id": "easter_island",
@@ -8365,10 +7225,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -109.916737,
-          22.890533
-        ]
+        "coordinates": [-109.916737, 22.890533]
       },
       "properties": {
         "id": "cabo_san_lucas",
@@ -8387,10 +7244,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -104.651842,
-          24.028313
-        ]
+        "coordinates": [-104.651842, 24.028313]
       },
       "properties": {
         "id": "durango",
@@ -8409,10 +7263,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -106.483691,
-          31.76745
-        ]
+        "coordinates": [-106.483691, 31.76745]
       },
       "properties": {
         "id": "el_paso",
@@ -8431,10 +7282,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -104.532024,
-          33.370915
-        ]
+        "coordinates": [-104.532024, 33.370915]
       },
       "properties": {
         "id": "roswell",
@@ -8453,10 +7301,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -104.82136,
-          38.838114
-        ]
+        "coordinates": [-104.82136, 38.838114]
       },
       "properties": {
         "id": "colorado_springs",
@@ -8475,10 +7320,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -105.275239,
-          40.018949
-        ]
+        "coordinates": [-105.275239, 40.018949]
       },
       "properties": {
         "id": "boulder",
@@ -8497,10 +7339,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -105.59514,
-          41.311255
-        ]
+        "coordinates": [-105.59514, 41.311255]
       },
       "properties": {
         "id": "laramie",
@@ -8519,10 +7358,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -114.062474,
-          51.053728
-        ]
+        "coordinates": [-114.062474, 51.053728]
       },
       "properties": {
         "id": "calgary",
@@ -8541,10 +7377,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -113.492614,
-          53.544698
-        ]
+        "coordinates": [-113.492614, 53.544698]
       },
       "properties": {
         "id": "edmonton",
@@ -8563,10 +7396,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -106.670527,
-          52.129322
-        ]
+        "coordinates": [-106.670527, 52.129322]
       },
       "properties": {
         "id": "saskatoon",
@@ -8585,10 +7415,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -118.026662,
-          66.092607
-        ]
+        "coordinates": [-118.026662, 66.092607]
       },
       "properties": {
         "id": "echo_bay",
@@ -8607,10 +7434,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -140.55,
-          64.45
-        ]
+        "coordinates": [-140.55, 64.45]
       },
       "properties": {
         "id": "forty_mile",
@@ -8629,10 +7453,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -114.001853,
-          46.874495
-        ]
+        "coordinates": [-114.001853, 46.874495]
       },
       "properties": {
         "id": "missoula",
@@ -8651,10 +7472,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -116.212539,
-          43.602071
-        ]
+        "coordinates": [-116.212539, 43.602071]
       },
       "properties": {
         "id": "boise",
@@ -8673,10 +7491,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -115.764251,
-          40.832862
-        ]
+        "coordinates": [-115.764251, 40.832862]
       },
       "properties": {
         "id": "elko",
@@ -8695,10 +7510,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -111.891219,
-          40.761949
-        ]
+        "coordinates": [-111.891219, 40.761949]
       },
       "properties": {
         "id": "salt_lake_city",
@@ -8717,10 +7529,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -112.07428,
-          33.453214
-        ]
+        "coordinates": [-112.07428, 33.453214]
       },
       "properties": {
         "id": "phoenix",
@@ -8739,10 +7548,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -110.943784,
-          32.227832
-        ]
+        "coordinates": [-110.943784, 32.227832]
       },
       "properties": {
         "id": "tucson",
@@ -8761,10 +7567,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -117.163841,
-          32.718834
-        ]
+        "coordinates": [-117.163841, 32.718834]
       },
       "properties": {
         "id": "san_diego",
@@ -8783,10 +7586,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -118.243685,
-          34.052234
-        ]
+        "coordinates": [-118.243685, 34.052234]
       },
       "properties": {
         "id": "los_angeles",
@@ -8805,10 +7605,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -115.173159,
-          36.117142
-        ]
+        "coordinates": [-115.173159, 36.117142]
       },
       "properties": {
         "id": "las_vegas",
@@ -8827,10 +7624,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -119.595463,
-          37.743938
-        ]
+        "coordinates": [-119.595463, 37.743938]
       },
       "properties": {
         "id": "yosemite",
@@ -8849,10 +7643,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -122.419204,
-          37.775196
-        ]
+        "coordinates": [-122.419204, 37.775196]
       },
       "properties": {
         "id": "san_francisco",
@@ -8871,10 +7662,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -122.374268,
-          40.572284
-        ]
+        "coordinates": [-122.374268, 40.572284]
       },
       "properties": {
         "id": "redding",
@@ -8893,10 +7681,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -123.0867536,
-          44.0520691
-        ]
+        "coordinates": [-123.0867536, 44.0520691]
       },
       "properties": {
         "id": "eugene",
@@ -8915,10 +7700,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -122.676101,
-          45.523927
-        ]
+        "coordinates": [-122.676101, 45.523927]
       },
       "properties": {
         "id": "portland",
@@ -8937,10 +7719,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -122.441014,
-          47.255124
-        ]
+        "coordinates": [-122.441014, 47.255124]
       },
       "properties": {
         "id": "tacoma",
@@ -8959,10 +7738,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -122.347276,
-          47.620973
-        ]
+        "coordinates": [-122.347276, 47.620973]
       },
       "properties": {
         "id": "seattle",
@@ -8981,10 +7757,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -123.145065,
-          49.303188
-        ]
+        "coordinates": [-123.145065, 49.303188]
       },
       "properties": {
         "id": "vancouver",
@@ -9003,10 +7776,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -122.749806,
-          53.917306
-        ]
+        "coordinates": [-122.749806, 53.917306]
       },
       "properties": {
         "id": "prince_george",
@@ -9025,10 +7795,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -135.331327,
-          57.054969
-        ]
+        "coordinates": [-135.331327, 57.054969]
       },
       "properties": {
         "id": "sitka",
@@ -9047,10 +7814,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -149.897568,
-          61.215603
-        ]
+        "coordinates": [-149.897568, 61.215603]
       },
       "properties": {
         "id": "anchorage",
@@ -9069,10 +7833,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -155.555283,
-          62.947563
-        ]
+        "coordinates": [-155.555283, 62.947563]
       },
       "properties": {
         "id": "mcgrath",
@@ -9091,10 +7852,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -165.406729,
-          64.502118
-        ]
+        "coordinates": [-165.406729, 64.502118]
       },
       "properties": {
         "id": "nome_alaska",
@@ -9113,10 +7871,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -159.353758,
-          21.973295
-        ]
+        "coordinates": [-159.353758, 21.973295]
       },
       "properties": {
         "id": "lihue",
@@ -9135,10 +7890,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -158.010761,
-          21.386441
-        ]
+        "coordinates": [-158.010761, 21.386441]
       },
       "properties": {
         "id": "waipahu",
@@ -9157,10 +7909,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -157.010468,
-          21.139263
-        ]
+        "coordinates": [-157.010468, 21.139263]
       },
       "properties": {
         "id": "molokai",
@@ -9179,10 +7928,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -156.337974,
-          20.804858
-        ]
+        "coordinates": [-156.337974, 20.804858]
       },
       "properties": {
         "id": "maui",
@@ -9201,10 +7947,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          -155.090423,
-          19.693225
-        ]
+        "coordinates": [-155.090423, 19.693225]
       },
       "properties": {
         "id": "hilo",
@@ -9223,10 +7966,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [
-          168,
-          84.6
-        ]
+        "coordinates": [25.848333, 66.543333]
       },
       "properties": {
         "id": "landing",
@@ -9234,10 +7974,10 @@
         "departure": 1608717600000,
         "population": 0,
         "presentsDelivered": 7700000000,
-        "city": "サンタ村",
-        "region": "北極",
+        "city": "サンタクロース村",
+        "region": "フィンランド",
         "details": {
-          "timezone": 0
+          "timezone": 7200
         }
       }
     }

@@ -134,7 +134,24 @@ const calculateVisitedCities = (timestamp: number) => {
 
     // 到着時刻が現在時刻より前なら訪問済み
     if (feature.properties.arrival <= timestamp) {
-      visitedCities.push(feature)
+      // 現地時刻を計算して追加
+      const arrival = feature.properties.arrival
+      const timezone = feature.properties.details.timezone
+      // timezone は秒単位、arrival はミリ秒単位なので timezone * 1000 でミリ秒に変換
+      const localTime = new Date(arrival + timezone * 1000)
+      const hours = String(localTime.getUTCHours()).padStart(2, '0')
+      const minutes = String(localTime.getUTCMinutes()).padStart(2, '0')
+
+      // プロパティに現地時刻を追加
+      const featureWithTime = {
+        ...feature,
+        properties: {
+          ...feature.properties,
+          localArrivalTime: `${hours}:${minutes}`,
+        },
+      }
+
+      visitedCities.push(featureWithTime)
     } else {
       // まだ到着していない都市以降は追加しない
       break
@@ -355,10 +372,10 @@ onMounted(async () => {
       type: 'symbol',
       source: 'visited-cities',
       layout: {
-        'text-field': ['get', 'city'],
+        'text-field': ['concat', ['get', 'city'], '\n', '現地時刻 ', ['get', 'localArrivalTime']],
         'text-font': ['Open Sans Regular'],
-        'text-size': 12,
-        'text-offset': [0, 1.5],
+        'text-size': 11,
+        'text-offset': [0, 1.8],
         'text-anchor': 'top',
       },
       paint: {
