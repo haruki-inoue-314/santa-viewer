@@ -40,58 +40,6 @@ const currentTime = ref(0)
 const minTime = ref(0)
 const maxTime = ref(0)
 
-// 現在時刻に基づいてサンタの位置を計算する
-const calculateSantaPosition = (timestamp: number): [number, number] | null => {
-  if (!santaData.value) return null
-
-  const features = santaData.value.features
-
-  // 最初の地点より前の時刻
-  if (timestamp <= features[0].properties.arrival) {
-    return features[0].geometry.coordinates as [number, number]
-  }
-
-  // 各地点をチェック
-  for (let i = 0; i < features.length - 1; i++) {
-    const currentStop = features[i]
-    const nextStop = features[i + 1]
-
-    const departure = currentStop.properties.departure
-    const nextArrival = nextStop.properties.arrival
-
-    // 現在の地点に滞在中
-    if (timestamp >= currentStop.properties.arrival && timestamp <= departure) {
-      return currentStop.geometry.coordinates as [number, number]
-    }
-
-    // 次の地点への移動中
-    if (timestamp > departure && timestamp < nextArrival) {
-      const from = turf.point(currentStop.geometry.coordinates)
-      const to = turf.point(nextStop.geometry.coordinates)
-
-      // 移動時間の割合を計算
-      const travelDuration = nextArrival - departure
-      const elapsed = timestamp - departure
-      const ratio = elapsed / travelDuration
-
-      // 2点間の距離を計算して補間
-      const distance = turf.distance(from, to, { units: 'kilometers' })
-      const bearing = turf.bearing(from, to)
-      const traveledDistance = distance * ratio
-
-      const position = turf.destination(from, traveledDistance, bearing, {
-        units: 'kilometers',
-      })
-
-      return position.geometry.coordinates as [number, number]
-    }
-  }
-
-  // 最後の地点
-  const lastFeature = features[features.length - 1]
-  return lastFeature.geometry.coordinates as [number, number]
-}
-
 // 日付変更線をまたぐ座標を修正する
 const fixAntimeridian = (coordinates: number[][]): number[][] => {
   if (coordinates.length <= 1) return coordinates
@@ -269,11 +217,9 @@ const updateVisitedCities = () => {
   }
 }
 
-// 軌跡を更新
-const updateTrail = () => {
+// 軌跡を更新（計算済みの軌跡データを受け取る）
+const updateTrail = (trail: number[][]) => {
   if (!map || !mapLoaded.value) return
-
-  const trail = calculateTrailPath(currentTime.value)
 
   const source = map.getSource('santa-trail') as maplibregl.GeoJSONSource
   if (source) {
@@ -294,16 +240,19 @@ const updateSantaPosition = () => {
   updateVisitedCities()
   if (!map || !santaMarker) return
 
-  const position = calculateSantaPosition(currentTime.value)
-  if (position) {
+  // 軌跡を計算（最後の座標がサンタの現在位置）
+  const trail = calculateTrailPath(currentTime.value)
+
+  if (trail.length > 0) {
+    const position = trail[trail.length - 1] as [number, number]
     santaMarker.setLngLat(position)
 
     // 地図の中心をサンタの位置に瞬時に移動
     map.setCenter(position)
   }
 
-  // 軌跡も更新
-  updateTrail()
+  // 軌跡を更新
+  updateTrail(trail)
 }
 
 // currentTimeの変化を監視
